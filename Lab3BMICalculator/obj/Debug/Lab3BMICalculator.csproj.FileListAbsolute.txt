@@ -1,0 +1,7 @@
+C:\Projects\SD-104 C#\Lab3BMICalculator\bin\Debug\Lab3BMICalculator.exe.config
+C:\Projects\SD-104 C#\Lab3BMICalculator\bin\Debug\Lab3BMICalculator.exe
+C:\Projects\SD-104 C#\Lab3BMICalculator\bin\Debug\Lab3BMICalculator.pdb
+C:\Projects\SD-104 C#\Lab3BMICalculator\obj\Debug\Lab3BMICalculator.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\Lab3BMICalculator\obj\Debug\Lab3BMICalculator.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\Lab3BMICalculator\obj\Debug\Lab3BMICalculator.exe
+C:\Projects\SD-104 C#\Lab3BMICalculator\obj\Debug\Lab3BMICalculator.pdb
