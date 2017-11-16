@@ -1,0 +1,7 @@
+C:\Projects\SD-104 C#\Lab 4 Largest and smallest nbrs\bin\Debug\Lab 4 Largest and smallest nbrs.exe.config
+C:\Projects\SD-104 C#\Lab 4 Largest and smallest nbrs\bin\Debug\Lab 4 Largest and smallest nbrs.exe
+C:\Projects\SD-104 C#\Lab 4 Largest and smallest nbrs\bin\Debug\Lab 4 Largest and smallest nbrs.pdb
+C:\Projects\SD-104 C#\Lab 4 Largest and smallest nbrs\obj\Debug\Lab 4 Largest and smallest nbrs.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\Lab 4 Largest and smallest nbrs\obj\Debug\Lab 4 Largest and smallest nbrs.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\Lab 4 Largest and smallest nbrs\obj\Debug\Lab 4 Largest and smallest nbrs.exe
+C:\Projects\SD-104 C#\Lab 4 Largest and smallest nbrs\obj\Debug\Lab 4 Largest and smallest nbrs.pdb
