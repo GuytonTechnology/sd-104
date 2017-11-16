@@ -1,0 +1,7 @@
+C:\Projects\SD-104 C#\Lab 5 toothpicks game\bin\Debug\Lab 5 toothpicks game.exe.config
+C:\Projects\SD-104 C#\Lab 5 toothpicks game\bin\Debug\Lab 5 toothpicks game.exe
+C:\Projects\SD-104 C#\Lab 5 toothpicks game\bin\Debug\Lab 5 toothpicks game.pdb
+C:\Projects\SD-104 C#\Lab 5 toothpicks game\obj\Debug\Lab 5 toothpicks game.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\Lab 5 toothpicks game\obj\Debug\Lab 5 toothpicks game.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\Lab 5 toothpicks game\obj\Debug\Lab 5 toothpicks game.exe
+C:\Projects\SD-104 C#\Lab 5 toothpicks game\obj\Debug\Lab 5 toothpicks game.pdb
