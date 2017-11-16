@@ -1,0 +1,7 @@
+C:\Projects\SD-104 C#\Lab2-battingav\bin\Debug\Lab2-battingav.exe.config
+C:\Projects\SD-104 C#\Lab2-battingav\bin\Debug\Lab2-battingav.exe
+C:\Projects\SD-104 C#\Lab2-battingav\bin\Debug\Lab2-battingav.pdb
+C:\Projects\SD-104 C#\Lab2-battingav\obj\Debug\Lab2-battingav.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\Lab2-battingav\obj\Debug\Lab2-battingav.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\Lab2-battingav\obj\Debug\Lab2-battingav.exe
+C:\Projects\SD-104 C#\Lab2-battingav\obj\Debug\Lab2-battingav.pdb
