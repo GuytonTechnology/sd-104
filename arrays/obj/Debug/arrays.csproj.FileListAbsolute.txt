@@ -1,0 +1,7 @@
+C:\Projects\SD-104 C#\arrays\bin\Debug\arrays.exe.config
+C:\Projects\SD-104 C#\arrays\bin\Debug\arrays.exe
+C:\Projects\SD-104 C#\arrays\bin\Debug\arrays.pdb
+C:\Projects\SD-104 C#\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\arrays\obj\Debug\arrays.exe
+C:\Projects\SD-104 C#\arrays\obj\Debug\arrays.pdb
