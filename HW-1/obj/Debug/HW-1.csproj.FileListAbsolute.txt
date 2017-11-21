@@ -1,0 +1,7 @@
+C:\Projects\SD-104 C#\HW-1\bin\Debug\HW-1.exe.config
+C:\Projects\SD-104 C#\HW-1\bin\Debug\HW-1.exe
+C:\Projects\SD-104 C#\HW-1\bin\Debug\HW-1.pdb
+C:\Projects\SD-104 C#\HW-1\obj\Debug\HW-1.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\HW-1\obj\Debug\HW-1.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\HW-1\obj\Debug\HW-1.exe
+C:\Projects\SD-104 C#\HW-1\obj\Debug\HW-1.pdb
