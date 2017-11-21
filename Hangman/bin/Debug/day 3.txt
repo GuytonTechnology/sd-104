@@ -1,0 +1,19 @@
+Array
+
+int[] scores = {78,92,67}
+
+//display the 0th element
+
+example below string array
+
+string word = "Something";
+
+for (int n = 0; n < word.length' n++)
+{
+  //access the nth element in the array
+     if (word[n] == charGuess)
+   {
+      //do something
+
+   }
+}

@@ -1,0 +1,7 @@
+C:\Projects\SD-104 C#\Hangman\bin\Debug\Hangman Console Template.exe.config
+C:\Projects\SD-104 C#\Hangman\bin\Debug\Hangman Console Template.exe
+C:\Projects\SD-104 C#\Hangman\bin\Debug\Hangman Console Template.pdb
+C:\Projects\SD-104 C#\Hangman\obj\Debug\Hangman Console Template.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\Hangman\obj\Debug\Hangman Console Template.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\Hangman\obj\Debug\Hangman Console Template.exe
+C:\Projects\SD-104 C#\Hangman\obj\Debug\Hangman Console Template.pdb
