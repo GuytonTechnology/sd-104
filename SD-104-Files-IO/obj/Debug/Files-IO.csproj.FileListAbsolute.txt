@@ -1,0 +1,7 @@
+C:\Users\Student7\source\repos\SD-104-Files-IO\bin\Debug\Files-IO.exe.config
+C:\Users\Student7\source\repos\SD-104-Files-IO\bin\Debug\Files-IO.exe
+C:\Users\Student7\source\repos\SD-104-Files-IO\bin\Debug\Files-IO.pdb
+C:\Users\Student7\source\repos\SD-104-Files-IO\obj\Debug\Files-IO.csprojResolveAssemblyReference.cache
+C:\Users\Student7\source\repos\SD-104-Files-IO\obj\Debug\Files-IO.csproj.CoreCompileInputs.cache
+C:\Users\Student7\source\repos\SD-104-Files-IO\obj\Debug\Files-IO.exe
+C:\Users\Student7\source\repos\SD-104-Files-IO\obj\Debug\Files-IO.pdb
