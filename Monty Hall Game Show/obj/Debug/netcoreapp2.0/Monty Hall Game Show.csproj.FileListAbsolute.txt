@@ -1,0 +1,11 @@
+C:\Projects\SD-104 C#\Monty Hall Game Show\bin\Debug\netcoreapp2.0\Monty Hall Game Show.deps.json
+C:\Projects\SD-104 C#\Monty Hall Game Show\bin\Debug\netcoreapp2.0\Monty Hall Game Show.runtimeconfig.json
+C:\Projects\SD-104 C#\Monty Hall Game Show\bin\Debug\netcoreapp2.0\Monty Hall Game Show.runtimeconfig.dev.json
+C:\Projects\SD-104 C#\Monty Hall Game Show\bin\Debug\netcoreapp2.0\Monty Hall Game Show.dll
+C:\Projects\SD-104 C#\Monty Hall Game Show\bin\Debug\netcoreapp2.0\Monty Hall Game Show.pdb
+C:\Projects\SD-104 C#\Monty Hall Game Show\obj\Debug\netcoreapp2.0\Monty Hall Game Show.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104 C#\Monty Hall Game Show\obj\Debug\netcoreapp2.0\Monty Hall Game Show.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 C#\Monty Hall Game Show\obj\Debug\netcoreapp2.0\Monty Hall Game Show.AssemblyInfoInputs.cache
+C:\Projects\SD-104 C#\Monty Hall Game Show\obj\Debug\netcoreapp2.0\Monty Hall Game Show.AssemblyInfo.cs
+C:\Projects\SD-104 C#\Monty Hall Game Show\obj\Debug\netcoreapp2.0\Monty Hall Game Show.dll
+C:\Projects\SD-104 C#\Monty Hall Game Show\obj\Debug\netcoreapp2.0\Monty Hall Game Show.pdb
